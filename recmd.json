@@ -3,6 +3,7 @@
     "products":[
         {
             "id": 1,
+            "pid": 6,
             "name": "Herbal Fertilizer",
             "img": "https://content.jdmagicbox.com/comp/def_content/fertilizer-dealers/shutterstock-1427511386-fertilizer-dealers-5-riwjo.jpg?clr=0a4b5c",
             "company": "Scotts",
@@ -13,6 +14,7 @@
         },
         {
             "id": 2,
+            "pid": 7,
             "name": "SugarCane Seeds",
             "img": "https://i0.wp.com/www.thepublisheronline.com/wp-content/uploads/2018/01/100pcs-Vegetable-and-fruits-seeds-Sugar-cane-seeds-Are-rich-in-sugar-sugarcane-seed-Bonsai-plants.jpg?fit=600%2C399&ssl=1",
             "company": "Patil Biotech",
@@ -23,6 +25,7 @@
         },
         {
             "id": 3,
+            "pid": 8,
             "name": "Corn Seeds",
             "img": "https://media.istockphoto.com/photos/bowl-with-corn-kernels-for-popcorn-picture-id1309198153?b=1&k=20&m=1309198153&s=170667a&w=0&h=7uOJM2Ba_o2rBKk70347oNVNVn_65CJUkf_kJCjfe8Q=",
             "company": "Haridhan",
@@ -33,6 +36,7 @@
         },
         {
             "id": 4,
+            "pid": 9,
             "name": "Bajra Seeds",
             "img": "https://thumbs.dreamstime.com/b/millet-close-up-view-spoon-pearl-seeds-also-know-as-bajra-indian-background-166601214.jpg",
             "company": "Pioneer",
@@ -43,6 +47,7 @@
         },
         {
             "id": 5,
+            "pid": 10,
             "name": "Tomato Seeds",
             "img": "http://www.wildroseheritageseed.com/uploads/4/2/2/4/42241473/s145558776392258095_p103_i9_w640.jpeg",
             "company": "Nunhems",
@@ -53,6 +58,7 @@
         },
         {
             "id": 6,
+            "pid": 11,
             "name": "Rice Seeds",
             "img": "https://thumbs.dreamstime.com/b/hand-holding-golden-paddy-seeds-paddy-rice-background-morning-hand-holding-golden-paddy-seeds-paddy-rice-184360610.jpg",
             "company": "PreYashi",
@@ -63,6 +69,7 @@
         },
         {
             "id": 7,
+            "pid": 12,
             "name": "Amla Seeds",
             "img": "https://m.media-amazon.com/images/I/81SxjyEUmaL._SL1500_.jpg",
             "company": "Organic way",
@@ -73,6 +80,7 @@
         },
         {
             "id": 8,
+            "pid": 13,
             "name": "Pumpkin Seeds",
             "img": "https://static.tuasaude.com/media/article/ty/jg/sementes-de-abobora-para-o-coracao_13221.jpg",
             "company": "Mustin",
@@ -83,6 +91,7 @@
         },
         {
             "id": 9,
+            "pid": 14,
             "name": "Apple Seeds",
             "img": "https://images.tv9hindi.com/wp-content/uploads/2021/12/cover-pic1-2.jpg",
             "company": "Flare Seeds",
