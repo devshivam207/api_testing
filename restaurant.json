@@ -1,0 +1,59 @@
+{
+    "total_size": 6,
+    "products": [
+        {
+            "id": 1,
+            "pid": 1,
+            "name": "Shahi Paneer",
+            "price": 320,
+            "star": 4.8,
+            "img": "https://images.indianexpress.com/2019/11/mustard-seeds_759.jpg",
+            "location": "India"
+        },
+        {
+            "id": 2,
+            "pid": 2,
+            "name": "Veg Briyani",
+            "price": 420,
+            "star": 4.8,
+            "img": "https://m.media-amazon.com/images/I/711+nXBaHxL._SL1500_.jpg",
+            "location": "India"
+        },
+        {
+            "id": 3,
+            "pid": 3,
+            "name": "Aloo Paratha",
+            "price": 8,
+            "star": 90,
+            "img": "https://cdn.shopaccino.com/refresh/articles/sunflower-879386_l.jpg",
+            "location": "India"
+        },
+        {
+            "id": 4,
+            "pid": 4,
+            "name": "Veg Roll",
+            "price": 120,
+            "star": 4.6,
+            "img": "https://www.croplife.com/wp-content/uploads/2021/10/SeedTreatment_Cotton_PurpleCoating-Photo-Courtesy-BASF.jpg",
+            "location": "India"
+        },
+        {
+            "id": 5,
+            "pid": 5,
+            "name": "Sandwich",
+            "price": 150,
+            "star": 4.1,
+            "img": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/2000xAny/7/9/7/143797_shutterstock_723175018.jpg",
+            "location": "India"
+        },
+        {
+            "id": 6,
+            "pid": 6,
+            "name": "Chiken Roll",
+            "price": 350,
+            "star": 4.1,
+            "img": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/2000xAny/7/9/7/143797_shutterstock_723175018.jpg",
+            "location": "India"
+        }
+    ]
+}
