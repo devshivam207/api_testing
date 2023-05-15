@@ -7,7 +7,7 @@
             "name": "Shahi Paneer",
             "price": 320,
             "star": 4.8,
-            "img": "https://images.indianexpress.com/2019/11/mustard-seeds_759.jpg",
+            "img": "https://myfoodstory.com/wp-content/uploads/2022/04/Shahi-Paneer-1.jpg",
             "location": "India"
         },
         {
@@ -16,7 +16,7 @@
             "name": "Veg Briyani",
             "price": 420,
             "star": 4.8,
-            "img": "https://m.media-amazon.com/images/I/711+nXBaHxL._SL1500_.jpg",
+            "img": "https://madhurasrecipe.com/wp-content/uploads/2023/03/Veg-Biryani-Featured.jpg",
             "location": "India"
         },
         {
@@ -25,7 +25,7 @@
             "name": "Aloo Paratha",
             "price": 8,
             "star": 90,
-            "img": "https://cdn.shopaccino.com/refresh/articles/sunflower-879386_l.jpg",
+            "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/08/aloo-paratha-recipe.jpg",
             "location": "India"
         },
         {
@@ -34,7 +34,7 @@
             "name": "Veg Roll",
             "price": 120,
             "star": 4.6,
-            "img": "https://www.croplife.com/wp-content/uploads/2021/10/SeedTreatment_Cotton_PurpleCoating-Photo-Courtesy-BASF.jpg",
+            "img": "https://www.manjulaskitchen.com/wp-content/uploads/vegetable_kathi_roll.jpg",
             "location": "India"
         },
         {
@@ -43,7 +43,7 @@
             "name": "Sandwich",
             "price": 150,
             "star": 4.1,
-            "img": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/2000xAny/7/9/7/143797_shutterstock_723175018.jpg",
+            "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/veg-grilled-sandwich-recipe.jpg",
             "location": "India"
         },
         {
@@ -52,7 +52,7 @@
             "name": "Chiken Roll",
             "price": 350,
             "star": 4.1,
-            "img": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/2000xAny/7/9/7/143797_shutterstock_723175018.jpg",
+            "img": "https://c.ndtvimg.com/2021-02/pofiq73g_chicken-roll_625x300_26_February_21.jpg",
             "location": "India"
         }
     ]
